@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Yufan Zheng
 - 👀 I’m interested in Programming & Data Science
 - 🌱 I’m currently learning LeetCode, Kaggle, C++ ...
-- 💞️ I’m currently working at JP Morgan as a Software Engineer
+- 💞️ I’m currently working in JP Morgan as a Software Engineer
 - 📫 How to reach me ? contact me at yufan.zheng1@gmail.com
