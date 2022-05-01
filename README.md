@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Yufan Zheng
-- 👀 I’m interested in Programming & Data Science
+- 👀 I’m interested in Programming (Python, C++, Java, JavaScript) & Data Science (Machine Learning, Deep Learning)
 - 🌱 I’m currently learning LeetCode, Kaggle, C++ ...
 - 💞️ I’m currently working in JP Morgan as a Software Engineer
 - 📫 How to reach me ? contact me at yufan.zheng1@gmail.com
